@@ -1,0 +1,4 @@
+message_type,time,from_to,message
+SMS,2023-10-07 14:30:00,+1234567890,Hello world
+MMS,2023-10-07 15:00:00,+9876543210,Check out this image!
+SMS,2023-10-07 16:15:00,+1122334455,How are you doing?

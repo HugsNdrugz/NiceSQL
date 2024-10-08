@@ -1,0 +1,3 @@
+call_type,time,from_to,duration,location
+Incoming,Jan 1 2023 10:00 AM,John Doe,5 Min & 30 Sec,New York
+Outgoing,Jan 2 2023 2:00 PM,Jane Smith,2 Min & 15 Sec,Los Angeles
